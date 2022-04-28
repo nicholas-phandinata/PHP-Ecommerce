@@ -225,7 +225,37 @@
                 <i class="fa fa-heart"></i>
             </div> <!-- icon Begin -->
                 <h3><a href="#"> We love our customer</a></h3>
-                <p>We know to provide the best possible service ever</p>
+                <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                Ut dapibus nisi magna, in fringilla risus auctor sit amet. 
+                Sed interdum tempor tristique. 
+                </p>
+            </div> <!-- box same height Finish -->
+        </div> <!-- col-sm-4 Finish -->
+        <div class="col-sm-4"> <!-- col-sm-4 Begin -->
+            <div class="box same-height"> <!-- box same height Begin -->
+            <div class="icon"> <!-- icon Begin -->
+                <i class="fa fa-tags"></i>
+            </div> <!-- icon Begin -->
+                <h3><a href="#"> Best Prices</a></h3>
+                <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                Ut dapibus nisi magna, in fringilla risus auctor sit amet. 
+                Sed interdum tempor tristique. 
+                </p>
+            </div> <!-- box same height Finish -->
+        </div> <!-- col-sm-4 Finish -->
+        <div class="col-sm-4"> <!-- col-sm-4 Begin -->
+            <div class="box same-height"> <!-- box same height Begin -->
+            <div class="icon"> <!-- icon Begin -->
+                <i class="fa fa-thumbs-up"></i>
+            </div> <!-- icon Begin -->
+                <h3><a href="#"> 100% original products</a></h3>
+                <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                Ut dapibus nisi magna, in fringilla risus auctor sit amet. 
+                Sed interdum tempor tristique. 
+                </p>
             </div> <!-- box same height Finish -->
         </div> <!-- col-sm-4 Finish -->
     </div> <!-- same height row Finish -->
