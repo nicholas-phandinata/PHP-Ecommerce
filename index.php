@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>M-Dev Store</title>
+    <title>Above Average</title>
     <link rel="stylesheet" href="styles/bootstrap-337.min.css">
     <link rel="stylesheet" href="font-awsome/css/font-awesome.min.css">
     <link rel="stylesheet" href="styles/style.css">
@@ -77,7 +77,7 @@
                
            </div><!-- navbar-header Finish -->
            
-           <div class="navbar-collapse collapse" id="navigation"><!-- navbar-collapse collapse Begin -->
+           <div class="navbar-collapse collapse in" id="navigation"><!-- navbar-collapse collapse Begin -->
                
                <div class="padding-nav"><!-- padding-nav Begin -->
                    
@@ -216,10 +216,24 @@
        
    </div><!-- container Finish -->
    
+   <div id="advantages"> <!-- #advatages Begin -->
+    <div class="container"> <!-- container Begin -->
+    <div class="same-height-row"> <!-- same height row Begin -->
+        <div class="col-sm-4"> <!-- col-sm-4 Begin -->
+            <div class="box same-height"> <!-- box same height Begin -->
+            <div class="icon"> <!-- icon Begin -->
+                <i class="fa fa-heart"></i>
+            </div> <!-- icon Begin -->
+                <h3><a href="#"> We love our customer</a></h3>
+                <p>We know to provide the best possible service ever</p>
+            </div> <!-- box same height Finish -->
+        </div> <!-- col-sm-4 Finish -->
+    </div> <!-- same height row Finish -->
+    </div> <!-- container Finish -->
+   </div> <!-- #advantages Finish -->
     
     <script src="js/jquery-331.min.js"></script>
     <script src="js/bootstrap-337.min.js"></script>
-    
     
 </body>
 </html>

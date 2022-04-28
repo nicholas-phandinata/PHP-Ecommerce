@@ -9,7 +9,7 @@ Theme Ver         : 1.1
 /* General Styles */
 
 body{
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.42857143;
     color: #333333;
     background: #f0f0f0;
@@ -27,6 +27,7 @@ body{
 }
 #top .offer .btn{
     text-transform: uppercase;
+    margin-right: 10px;
 }
 @media(max-width: 991px){
     #top .offer{
@@ -43,10 +44,10 @@ body{
     color: #ffffff;
 }
 #top ul.menu{
-    padding-top: 5px;
+    padding-top: 3px;
     margin: 0px;
     text-align: right;
-    font-size: 12px;
+    font-size: 15px;
     list-style: none;
 }
 @media(max-width: 991px){
